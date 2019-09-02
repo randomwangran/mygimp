@@ -774,7 +774,7 @@
 ; (gtk_accel_path "<Actions>/plug-in/plug-in-hot" "")
 ; (gtk_accel_path "<Actions>/tools/tools-aspect-decrease-skip" "")
 ; (gtk_accel_path "<Actions>/view/view-zoom-out-skip" "")
-; (gtk_accel_path "<Actions>/dialogs/dialogs-keyboard-shortcuts" "")
+(gtk_accel_path "<Actions>/dialogs/dialogs-keyboard-shortcuts" "<Primary>k")
 ; (gtk_accel_path "<Actions>/view/view-zoom-maximum" "")
 ; (gtk_accel_path "<Actions>/dialogs/dialogs-input-devices" "")
 ; (gtk_accel_path "<Actions>/dockable/dialogs-document-history" "")
