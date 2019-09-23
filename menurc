@@ -106,7 +106,7 @@
 ; (gtk_accel_path "<Actions>/filters/filters-fattal-2002" "")
 ; (gtk_accel_path "<Actions>/tools/tools-color-average-radius-set" "")
 ; (gtk_accel_path "<Actions>/filters/filters-distorts-menu" "")
-; (gtk_accel_path "<Actions>/tools/tools-fuzzy-select" "u")
+(gtk_accel_path "<Actions>/tools/tools-fuzzy-select" "d")
 ; (gtk_accel_path "<Actions>/documents/documents-reload-previews" "")
 ; (gtk_accel_path "<Actions>/debug/debug-show-image-graph" "")
 ; (gtk_accel_path "<Actions>/brushes/brushes-show-in-file-manager" "")
