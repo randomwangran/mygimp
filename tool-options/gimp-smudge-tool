@@ -1,0 +1,12 @@
+# GIMP gimp-smudge-tool options
+
+(background (color-rgb 0.000000 0.000000 0.000000))
+(brush "1. Pixel")
+(dynamics "Pressure Size")
+(gradient "FG to BG (RGB)")
+(palette "Color History")
+(brush-size 188.000000)
+(brush-spacing 0.010000)
+(brush-force 1.000000)
+
+# end of gimp-smudge-tool options

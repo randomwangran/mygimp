@@ -1,0 +1,6 @@
+# GIMP gimp-measure-tool options
+
+(orientation vertical)
+(use-info-window yes)
+
+# end of gimp-measure-tool options

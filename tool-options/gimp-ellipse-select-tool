@@ -1,0 +1,9 @@
+# GIMP gimp-ellipse-select-tool options
+
+(fixed-center yes)
+(fixed-rule-active yes)
+(guide center-lines)
+(feather yes)
+(feather-radius 2.000000)
+
+# end of gimp-ellipse-select-tool options

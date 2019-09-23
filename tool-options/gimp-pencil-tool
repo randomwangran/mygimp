@@ -1,0 +1,17 @@
+# GIMP gimp-pencil-tool options
+
+(background (color-rgb 0.000000 0.000000 0.000000))
+(opacity 0.000000)
+(brush "1. Pixel")
+(dynamics "Pressure Size")
+(gradient "FG to BG (RGB)")
+(palette "Color History")
+(brush-size 188.000000)
+(brush-spacing 0.010000)
+(brush-force 1.000000)
+(jitter-amount 0.740000)
+(use-smoothing yes)
+(smoothing-quality 66)
+(smoothing-factor 750.800000)
+
+# end of gimp-pencil-tool options
