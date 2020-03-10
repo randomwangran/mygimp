@@ -1,7 +1,9 @@
 # GIMP gimp-text-tool options
 
+(foreground (color-rgb 1.000000 1.000000 1.000000))
 (palette "Color History")
-(font "Times New Roman,")
-(font-size 50.000000)
+(font "Times New Roman")
+(font-size 50)
+(language "en-ca")
 
 # end of gimp-text-tool options
